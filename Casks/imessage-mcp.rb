@@ -1,6 +1,6 @@
 cask "imessage-mcp" do
-  version "0.2.2"
-  sha256 "61668e1959a8bd6e9de8d9b156dd29c670743626ae59e2682a51846c850d4cdb"
+  version "0.2.3"
+  sha256 "c7ec7044c535c633ba5bf42a3edb2d3493e4b93f320b4aff8c0319837e0024cd"
 
   url "https://github.com/0xroots/imessage-mcp/releases/download/v#{version}/iMessageMCP-#{version}.dmg"
   name "iMessage MCP"
